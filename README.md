@@ -31,11 +31,16 @@ source ~/.bashrc
 gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen2-0.5b-instruct/config.json
 ```
 
-### Step 6: Start GaiaNet
+### Step 6: Start the Node
 
 ```bash
 gaianet start
 ```
 
+### Run the command below to get your ``Node ID`` and your ``Device ID``. You need both so you can bind your NODE with your ``Gaia account``
+
+```bash
+gaianet info
+```
 
 ### By following these steps, you should be able to install and run GaiaNet Node without running into any errors. Enjoy using GaiaNet for your AI projects!
