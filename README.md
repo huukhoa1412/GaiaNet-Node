@@ -37,4 +37,5 @@ gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/
 gaianet start
 ```
 
+
 ### By following these steps, you should be able to install and run GaiaNet Node without running into any errors. Enjoy using GaiaNet for your AI projects!
