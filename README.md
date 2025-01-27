@@ -46,3 +46,9 @@ gaianet info
 ```
 
 ### By following these steps, you should be able to install and run GaiaNet Node without running into any errors. Enjoy using GaiaNet for your AI projects!
+
+# Update
+
+```bash
+gaianet stop && curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh' | bash -s -- --upgrade && gaianet start
+```
