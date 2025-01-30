@@ -2,7 +2,7 @@
 ![image](https://github.com/Veviloos/GaiaNet-Node/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CE%BF%CC%81%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CE%BF%CC%81%CE%BD%CE%B7%CF%82%202025-01-27%2C%2016.06.58.png)
 ### Follow these steps for smooth installation of the GaiaNet Node. This will help you avoid some of the most common mistakes when installing.
 
-### Step 1: Create your Gaia Account [here](https://gaianet.ai/reward?invite_code=RSh26G) and complete all quests.
+### Step 1: Create your Gaia Account [here](https://gaianet.ai/reward?invite_code=Rt5XOU) and complete all quests.
 
 ### Step 2: Update Your System
 
